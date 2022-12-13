@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @acopier
 - 👀 I’m interested in Trains, Technology and android development
 - 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on Nothing
+- 💞️ I’m looking to collaborate on -
 - 📫 How to reach me acopierlive@gmail.com
 
 <!---
