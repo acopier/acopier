@@ -1,0 +1,9 @@
+discord:
+  # This only sends manual announcements.
+  enabled: false
+  webhook: "INSERT-WEBHOOK-HERE"
+  # Do you want an embed or a normal message?
+  embed-message: true
+  # This will either be the username or the embed title
+  title: "Announcement Logs"
+  footer: "New announcement | Created by RefracDevelopment"
