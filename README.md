@@ -30,7 +30,9 @@ passionate PC enthusiast striving for making people's day better.
 
 <table>
     <tr>
-        Languages
+        <td>
+            Languages
+        </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/javascript.png" />
         </td>
@@ -39,7 +41,9 @@ passionate PC enthusiast striving for making people's day better.
         </td>
     </tr>
     <tr>
-        Runtimes
+        <td>
+            Runtimes
+        </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/nodejs.svg" />
         </td>
@@ -48,7 +52,9 @@ passionate PC enthusiast striving for making people's day better.
         </td>
     </tr>
     <tr>
-        Frameworks
+        <td>
+            Frameworks
+        </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.png" />
         </td>
