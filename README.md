@@ -1,6 +1,6 @@
-# Hi! I'm acopier! 👋
+# Hi! I'm acopier! 🇨🇿
 
-🇨🇿 PC enthusiast who strives for making people's day better.
+PC enthusiast who strives for making people's day better.
 
 <table>
     <tr>
