@@ -36,14 +36,24 @@ passionate PC enthusiast striving for making people's day better.
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/typescript.png" />
         </td>
-        <td>
-            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.png" />
-        </td>
+    </tr>
+    <tr>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/nodejs.svg" />
         </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/bun.svg" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.png" />
+        </td>
+        <td>
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/vuejs.svg" />
+        </td>
+        <td>
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/svelte.svg" />
         </td>
     </tr>
 
