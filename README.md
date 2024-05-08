@@ -30,6 +30,7 @@ passionate PC enthusiast striving for making people's day better.
 
 <table>
     <tr>
+        Languages
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/javascript.png" />
         </td>
@@ -38,6 +39,7 @@ passionate PC enthusiast striving for making people's day better.
         </td>
     </tr>
     <tr>
+        Runtimes
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/nodejs.svg" />
         </td>
@@ -46,6 +48,7 @@ passionate PC enthusiast striving for making people's day better.
         </td>
     </tr>
     <tr>
+        Frameworks
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.png" />
         </td>
@@ -61,7 +64,7 @@ passionate PC enthusiast striving for making people's day better.
 </details>
 
 <details>
-    <summary>🌍 Language</summary>
+    <summary>🌍 IRL Language</summary>
 
 | Language | Proficiency    |
 | -------- | -------------- |
