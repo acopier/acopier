@@ -5,14 +5,35 @@ passionate PC enthusiast striving for making people's day better.
 <details>
     <summary>📊 Statistics</summary>
     
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox) | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=acopier&theme=gruvbox&row=2&column=4) |
-|---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acopier&theme=gruvbox) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox&langs_count=8&card_width=320) |
+<table>
+    <tr>
+        <td>
+            <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox" />
+        </td>
+        <td>
+            <img align="center" height=200 src="https://github-profile-trophy.vercel.app/?username=acopier&theme=gruvbox&row=2&column=4" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=acopier&theme=gruvbox" />
+        </td>
+        <td>
+            <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox&langs_count=8&card_width=320" />
+        </td>
+    </tr>
+</table>
 </details>
 
 <details>
     <summary>🥷 Skills</summary>
 
+<table>
+    <tr>
+        <td>
+        </td>
+    </tr>
+</table>
 </details>
 
 <details>
