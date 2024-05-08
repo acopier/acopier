@@ -37,7 +37,7 @@ passionate PC enthusiast striving for making people's day better.
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/javascript.svg" />
         </td>
         <td>
-            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/typescript.svg" />
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/typescript.svg" width="96" height="96" />
         </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/rust.svg" />
@@ -65,7 +65,7 @@ passionate PC enthusiast striving for making people's day better.
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.svg" />
         </td>
         <td>
-            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/vuejs.svg" />
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/vuejs.svg" width="96" height="96" />
         </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/svelte.svg" />
