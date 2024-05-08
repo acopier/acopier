@@ -16,7 +16,7 @@ I'm a PC enthusiast who strives for making people's day better.
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=acopier&theme=gruvbox" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=donut&theme=gruvbox" />
         </td>
     </tr>
 </table>
