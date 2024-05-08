@@ -16,7 +16,9 @@ I'm a PC enthusiast who strives for making people's day better.
 
 <table>
     <tr>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier" />
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier" />
+        </td>
     </tr>
 </table>
 
