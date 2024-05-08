@@ -39,6 +39,9 @@ passionate PC enthusiast striving for making people's day better.
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.png" />
         </td>
+        <td>
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/nodejs.svg" />
+        </td>
     </tr>
 
 </table>
