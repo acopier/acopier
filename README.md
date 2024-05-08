@@ -2,8 +2,6 @@
 
 I'm a PC enthusiast who strives for making people's day better.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acopier)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox"
@@ -15,6 +13,12 @@ I'm a PC enthusiast who strives for making people's day better.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true" />
 </picture>
+
+<table>
+    <tr>
+        <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acopier)](https://github.com/anuraghazra/github-readme-stats)</td>
+    </tr>
+</table>
 
 <!---
 acopier/acopier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
