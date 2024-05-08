@@ -31,7 +31,7 @@ passionate PC enthusiast striving for making people's day better.
 <table>
     <tr>
         <td>
-            Languages
+            <strong>Languages</strong>
         </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/javascript.png" />
@@ -42,7 +42,7 @@ passionate PC enthusiast striving for making people's day better.
     </tr>
     <tr>
         <td>
-            Runtimes
+            <strong>Runtimes</strong>
         </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/nodejs.svg" />
@@ -53,7 +53,7 @@ passionate PC enthusiast striving for making people's day better.
     </tr>
     <tr>
         <td>
-            Frameworks
+            <strong>Frameworks</strong>
         </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.png" />
@@ -75,7 +75,7 @@ passionate PC enthusiast striving for making people's day better.
 | Language | Proficiency    |
 | -------- | -------------- |
 | Czech    | native speaker |
-| English  | C1             |
+| English  | C2             |
 
 </details>
 <!---
