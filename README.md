@@ -31,6 +31,10 @@ passionate PC enthusiast striving for making people's day better.
 <table>
     <tr>
         <td>
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/javascript.png" />
+        </td>
+        <td>
+            
         </td>
     </tr>
 </table>
