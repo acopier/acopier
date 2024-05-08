@@ -19,7 +19,7 @@ passionate PC enthusiast striving for making people's day better.
             <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=acopier&theme=gruvbox" />
         </td>
         <td>
-            <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox&langs_count=8&card_width=320" />
+            <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox&langs_count=8&card_width=320&hide=html" />
         </td>
     </tr>
 </table>
@@ -50,6 +50,9 @@ passionate PC enthusiast striving for making people's day better.
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/bun.svg" />
         </td>
+        <td>
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/deno.svg" />
+        </td>
     </tr>
     <tr>
         <td>
@@ -78,7 +81,3 @@ passionate PC enthusiast striving for making people's day better.
 | English  | C2             |
 
 </details>
-<!---
-acopier/acopier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
