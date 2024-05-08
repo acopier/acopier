@@ -6,18 +6,18 @@ I'm a PC enthusiast who strives for making people's day better.
     <tr>
         <picture>
             <source
-            srcset="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox"
+            srcset="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox&row=3&column=4&no-bg=true"
             media="(prefers-color-scheme: dark)"
             />
-        <source
-        srcset="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true" />
+            <source
+            srcset="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&row=3&column=4&no-bg=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&row=3&column=4&no-bg=true" />
         </picture>
     </tr>
     <tr>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&row=3&column=4&no-bg=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier" />
     </tr>
 </table>
 
