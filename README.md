@@ -4,7 +4,9 @@ I'm a PC enthusiast who strives for making people's day better.
 
 <table>
     <tr>
-        <img src="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox" />
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox" />
+        </td>
     </tr>
     <tr>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox" />
