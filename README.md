@@ -26,12 +26,12 @@ PC enthusiast striving for making people's day better.
 </details>
 
 <details>
-    <summary>Language</summary>
+    <summary>🌍 Language</summary>
 
-    | Language | Proficiency     |
-    | -------- | --------------- |
-    | Czech    | native speaker  |
-    | English  | C1              |
+| Language | Proficiency    |
+| -------- | -------------- |
+| Czech    | native speaker |
+| English  | C1             |
 
 </details>
 
