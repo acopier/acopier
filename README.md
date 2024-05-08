@@ -34,9 +34,15 @@ passionate PC enthusiast striving for making people's day better.
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/javascript.png" />
         </td>
         <td>
-            
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/typescript.png" />
+        </td>
+        <td>
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.png" />
+        </td>
+        <td>
         </td>
     </tr>
+
 </table>
 </details>
 
