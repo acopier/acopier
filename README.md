@@ -19,7 +19,7 @@ passionate PC enthusiast striving for making people's day better.
             <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=acopier&theme=gruvbox" />
         </td>
         <td>
-            <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox&langs_count=8&card_width=320&hide=html" />
+            <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox&langs_count=8&card_width=320&hide=html,astro" />
         </td>
     </tr>
 </table>
@@ -34,10 +34,13 @@ passionate PC enthusiast striving for making people's day better.
             <strong>Languages</strong>
         </td>
         <td>
-            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/javascript.png" />
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/javascript.svg" />
         </td>
         <td>
-            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/typescript.png" />
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/typescript.svg" />
+        </td>
+        <td>
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/rust.svg" />
         </td>
     </tr>
     <tr>
@@ -59,7 +62,7 @@ passionate PC enthusiast striving for making people's day better.
             <strong>Frameworks</strong>
         </td>
         <td>
-            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.png" />
+            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/react.svg" />
         </td>
         <td>
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/vuejs.svg" />
@@ -72,7 +75,7 @@ passionate PC enthusiast striving for making people's day better.
 </table>
 </details>
 
-<details>
+<!-- <details>
     <summary>🌍 IRL Language</summary>
 
 | Language | Proficiency    |
@@ -80,4 +83,4 @@ passionate PC enthusiast striving for making people's day better.
 | Czech    | native speaker |
 | English  | C2             |
 
-</details>
+</details> -->
