@@ -10,6 +10,8 @@ I'm a PC enthusiast who strives for making people's day better.
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox" />
         </td>
+    </tr>
+    <tr>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=acopier&theme=gruvbox" />
         </td>
