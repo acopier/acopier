@@ -51,7 +51,7 @@ passionate PC enthusiast striving for making people's day better.
             <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/bun.svg" />
         </td>
         <td>
-            <img align="center" src="https://raw.githubusercontent.com/acopier/acopier/main/images/deno.svg" />
+            <img align="center" width="96" height="96" src="https://raw.githubusercontent.com/acopier/acopier/main/images/deno.svg" />
         </td>
     </tr>
     <tr>
