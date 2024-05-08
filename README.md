@@ -25,6 +25,17 @@ PC enthusiast striving for making people's day better.
 </table>
 </details>
 
+<details>
+    <summary>Language</summary>
+    | Language | Proficiency     |
+    | -------- | --------------- |
+    | Czech    | native speaker  |
+    | English  | C1              |
+</details>
+
+<details>
+    <summary>🥷 Skills</summary>
+</details>
 <!---
 acopier/acopier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
