@@ -4,9 +4,6 @@ I'm a PC enthusiast who strives for making people's day better.
 
 <table>
     <tr>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier" />
-    </tr>
-    <tr>
         <picture>
             <source
             srcset="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox"
@@ -18,6 +15,9 @@ I'm a PC enthusiast who strives for making people's day better.
         />
         <img src="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true" />
         </picture>
+    </tr>
+    <tr>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&row=3&column=4&no-bg=true" />
     </tr>
 </table>
 
