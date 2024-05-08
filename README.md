@@ -27,10 +27,12 @@ PC enthusiast striving for making people's day better.
 
 <details>
     <summary>Language</summary>
+
     | Language | Proficiency     |
     | -------- | --------------- |
     | Czech    | native speaker  |
     | English  | C1              |
+
 </details>
 
 <details>
