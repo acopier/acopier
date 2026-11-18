@@ -8,7 +8,7 @@ passionate PC enthusiast striving for making people's day better.
 <table>
     <tr>
         <td>
-            <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox" />
+            <img align="center" height=200 src="https://github-stats-extended.vercel.app/api?username=acopier&show_icons=true&theme=gruvbox" />
         </td>
         <td>
             <img align="center" height=200 src="https://github-profile-trophy.vercel.app/?username=acopier&theme=gruvbox&row=2&column=4" />
@@ -19,7 +19,7 @@ passionate PC enthusiast striving for making people's day better.
             <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=acopier&theme=gruvbox" />
         </td>
         <td>
-            <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox&langs_count=8&card_width=320&hide=html,astro" />
+            <img align="center" height=200 src="https://github-stats-extended.vercel.app/api/top-langs/?username=acopier&layout=compact&theme=gruvbox&langs_count=8&card_width=320&hide=html,astro" />
         </td>
     </tr>
 </table>
